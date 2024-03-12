@@ -1,2 +1,2 @@
 # rainy
- Processingで作った雨が降るアニメーション
+ Processingで雨が降るアニメーション
